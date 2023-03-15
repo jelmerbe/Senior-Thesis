@@ -1,2 +1,3 @@
 # Senior-Thesis
-Senior thesis (add description later) 
+
+The main goal of this thesis will be to expand data analytics to the sport of rowing, using data collected on rowers' power profiles and connectivity to the water. We will use machine learning models to predict boatspeed and quantify the importance of certain variables and aspects of the stroke such as length, angles and power curves etc. A consequent goal is to explore the idea of making sports analytics in rowing more accessible through the use of smartwatches. Gyroscope and Accelerometer data will be used to create data profiles on athletes in an attempt to gather additional data and further analyze their performance, using more lightweight and accessible tools.
